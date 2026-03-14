@@ -11,9 +11,7 @@
 
 # Hola, soy Julián Esteban Arcos 👋🤖
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Ingeniero+Electrónico+%7C+AI+Specialist;Backend+Developer+%7C+Java+%7C+Node.js;Entrenador+de+LLMs+%7C+Prompt+Engineer;Automatización+con+n8n+%7C+Zapier+%7C+Make;Construyendo+el+futuro+con+IA+🚀" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1a2e&height=60&section=header&text=Ingeniero%20Electrónico%20%7C%20AI%20Specialist%20%7C%20Backend%20Dev&fontSize=18&fontColor=6c63ff&animation=fadeIn&fontAlignY=50" width="700"/>
 
 <br/>
 
