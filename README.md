@@ -1,156 +1,172 @@
-
-<h1 align="center"><b>Hi ,Julian Esteban Arcos </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
-</p>
-
-
-<br>
-
-
-
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
-<br>
-
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
-
-<p align="center">
-
-- **Languages**:
-    
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-
-<br>   
-    
-- **Front-End Development**:
-
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-<br>
-
-- **Cloud Hosting**:
-
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
-<br>
-
-- **Softwares and Tools**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-
-<br>
-
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
-
-</p>
-
-<br>
-<br>
-
------
-
-<br>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
 <div align="center">
 
-<a href="https://github.com/0xabdulkhalid/">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xabdulkhalid&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
+<!-- ══════════════════════════════════════════════════ -->
+<!-- 🔗 ESPACIO RESERVADO PARA PORTAFOLIO PERSONAL     -->
+<!-- Reemplaza el símbolo # con tu URL cuando esté listo -->
+<!-- ══════════════════════════════════════════════════ -->
 
-</a>
-</div>
-
-<br>
-<br>
-<br>
-
------
-
-<br>
-<br>
-
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
-</div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
-
-<div align='center'>
-
-
-</div>
-<br>
-<br>
-<br>
-<br>
+[![Portafolio](https://img.shields.io/badge/🌐_Portafolio_Personal-En_construcción-6c63ff?style=for-the-badge&labelColor=0d1117)](https://github.com/eljulia)
 
 ---
 
-<br>
+# Hola, soy Julián Esteban Arcos 👋🤖
 
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Ingeniero+Electrónico+%7C+AI+Specialist;Backend+Developer+%7C+Java+%7C+Node.js;Entrenador+de+LLMs+%7C+Prompt+Engineer;Automatización+con+n8n+%7C+Zapier+%7C+Make;Construyendo+el+futuro+con+IA+🚀" alt="Typing SVG" />
+</a>
 
-Last Edited on: 09/11/2022
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=eljulia&label=Visitas+al+perfil&color=6c63ff&style=flat-square" alt="visitas" />
+&nbsp;
+<a href="https://www.linkedin.com/in/juli%C3%A1n-esteban-arcos/">
+  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:estebanarcosayala@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Escribir-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🧠 Sobre mí
+
+Soy Ingeniero Electrónico graduado de la Universidad del Quindío (2025), especializado en **desarrollo backend** e **inteligencia artificial aplicada**. Me apasiona construir soluciones escalables que conecten el mundo del software con la IA generativa.
+
+🌍 **Ubicación:** Colombia 🇨🇴  
+🎓 **Formación:** Ingeniería Electrónica — Universidad del Quindío  
+💬 **Idiomas:** Español (Nativo) · Inglés (B2)  
+💼 **Actualmente:** Entrenador IA en Outlier · Freelancer LATAM  
+🎯 **Buscando:** Rol Tech en empresa innovadora 🚀  
+
+**Me especializo en:**
+
+- 🤖 Entrenamiento y evaluación de LLMs
+- ✍️ Prompt Engineering avanzado
+- 🔌 Diseño e implementación de APIs RESTful
+- ⚙️ Automatización de flujos con n8n, Zapier & Make
+- 🐧 Despliegue de servicios en servidores Linux
+
+---
+
+## ⚡ Stack Tecnológico
+
+### 🖥️ Lenguajes de Programación
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### 🚀 Frameworks & Backend
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+
+### 🗄️ Bases de Datos
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### 🤖 Inteligencia Artificial & Automatización
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoft-power-automate&logoColor=white)
+
+### 🛠️ Herramientas & Entornos
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/eljulia">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eljulia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eljulia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&text_color=c9d1d9"/>
+</a>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eljulia&theme=tokyonight&hide_border=true&background=0d1117&ring=6c63ff&fire=6c63ff&currStreakLabel=6c63ff" />
+
+
+</div>
+
+---
+
+## 🏆 Proyectos Destacados
+
+<div align="center">
+
+| 🏅 Proyecto | 📋 Descripción | 🛠️ Stack |
+|---|---|---|
+| **🥉 Hackathon Talento Tech · Región 2** | MVP desarrollado en 8h: plataforma de análisis y predicción de comportamiento de clientes para empresas de marketing digital, con IA, chatbot y dashboards interactivos. | Python · IA · Dashboards |
+| **📡 SDR con VHDL** | Sistema de Radio Definida por Software mediante lógica programable. **Ganador** en Muestra Tecnológica X — categoría "Gauss" de Ingeniería Electrónica UQ. | VHDL · DSP · FPGA |
+
+</div>
+
+---
+
+## 🎓 Certificaciones
+
+<div align="center">
+
+![Oracle OCI](https://img.shields.io/badge/Oracle_Cloud_Infrastructure_2025-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Alura ONE](https://img.shields.io/badge/ONE_Backend_Specialist_301H-00C7B7?style=for-the-badge&logo=oracle&logoColor=white)
+![Talento Tech](https://img.shields.io/badge/Analista_de_Datos_UdeA_159H-0052CC?style=for-the-badge&logo=databricks&logoColor=white)
+![Cisco JS](https://img.shields.io/badge/JavaScript_Essentials_Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Spring](https://img.shields.io/badge/Java_&_Spring_Framework_102H-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+</div>
+
+---
+
+## 🔥 Experiencia Reciente
+
+📌 **Outlier IA** — Desarrollador Freelancer & Entrenador IA LATAM *(Jun 2025 – Actualidad · Remoto)*  
+&nbsp;&nbsp;&nbsp;&nbsp;↳ Entrenamiento y evaluación de LLMs · Prompt Engineering · n8n · Zapier · Make
+
+📌 **Envíos Digitales SAS** — Analista de Despliegue de Servicios *(Dic 2025 – Mar 2026 · Remoto)*  
+&nbsp;&nbsp;&nbsp;&nbsp;↳ Servidores Linux · VLANs · Hyper-V · VirtualBox · Power Automate · Backups remotos
+
+📌 **Universidad del Quindío** — Auxiliar de Automatización y Gestión de Datos *(Feb 2025 – Jun 2025)*  
+&nbsp;&nbsp;&nbsp;&nbsp;↳ Microsoft 365 · Power Platform · SharePoint · Macros Excel · SQL
+
+---
+
+## 📬 ¿Hablamos?
+
+<div align="center">
+
+**¿Buscas un AI Specialist + Backend Developer para tu equipo Tech?**
+
+<a href="mailto:estebanarcosayala@gmail.com">
+  <img src="https://img.shields.io/badge/✉️_Enviar_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/juli%C3%A1n-esteban-arcos/">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/eljulia">
+  <img src="https://img.shields.io/badge/⭐_Ver_Repositorios-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+*"Construyo el puente entre la ingeniería de software y la inteligencia artificial."*
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6c63ff&height=100&section=footer"/>
+
+</div>
