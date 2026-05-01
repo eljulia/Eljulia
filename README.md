@@ -31,7 +31,7 @@
 
 ## 🧠 Sobre mí
 
-Soy Ingeniero Electrónico graduado de la Universidad del Quindío (2025), especializado en **desarrollo backend** e **inteligencia artificial aplicada**. Me apasiona construir soluciones escalables que conecten el mundo del software con la IA generativa.
+Soy Ingeniero Electrónico, especializado en **desarrollo backend** e **inteligencia artificial aplicada**. Me apasiona construir soluciones escalables que conecten el mundo del software con la IA generativa.
 
 🌍 **Ubicación:** Colombia 🇨🇴  
 🎓 **Formación:** Ingeniería Electrónica — Universidad del Quindío  
